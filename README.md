@@ -29,10 +29,12 @@ This code requires:
 ## Building and Executing 
 To run inside of ROOT:
 
-## Example ROOT SPS Graph
-
 ```bash
 .L SPS_Gain.C
 main()
 ```
 and then follow prompts
+
+## Example ROOT SPS Graph
+![Alt text](SPS_Example.png)
+
